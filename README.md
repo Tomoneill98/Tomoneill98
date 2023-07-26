@@ -6,7 +6,7 @@ Hello and welcome to my GitHub! I am a junior software developer excited to make
 
 Some of the skills and languages I have learned over the past few months:
 
-### 👾 Coding fundamentals
+### 👾 Fundamentals
 - JavaScript
 - Data structures
 - Command line
@@ -14,6 +14,7 @@ Some of the skills and languages I have learned over the past few months:
 - Object-oriented programming
 - RegEx
 - Recursion
+- Closure
 - Asynchronous programming
 
 ### 👔 Industry best practices 
@@ -42,7 +43,7 @@ Some of the skills and languages I have learned over the past few months:
 - Async / await
 - API hosting
 
-## 📩 Contact
+## Contact
   - Email: oneillt98@gmail.com
   - Linkedin: https://www.linkedin.com/in/tomoneill98/
 

@@ -1,10 +1,10 @@
 # About Me
 
-Hello! I’m Tom O'Neill and welcome to my GitHub. I am a junior software developer excited to make the transition into the tech industry. Here you can have a look at some of the work I have produced whilst on my journey to learning how to code! 
+Hello and welcome to my GitHub! I am a junior software developer excited to make the transition into the tech industry. Here you can have a look at some of the repositories I have produced whilst on my journey to learning how to code! 
 
 ## Skills
 
-Here are some of the skills and languages I have learned over the past few months:
+Some of the skills and languages I have learned over the past few months:
 
 ### 👾 Coding fundamentals
 - JavaScript

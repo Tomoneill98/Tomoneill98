@@ -1,6 +1,6 @@
 # About Me
 
-Hello and welcome to my GitHub! I am a junior software developer excited to make the transition into the tech industry. Here you can have a look at some of the repositories I have produced whilst on my journey to learning how to code! 
+Hello and welcome to my GitHub! I am a junior software developer excited to make the transition into the tech industry. Please see below you have a look at some of the work I have produced whilst on my journey to learning how to code! 
 
 ## Skills
 

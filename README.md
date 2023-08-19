@@ -1,6 +1,6 @@
 # About Me
 
-Hello and welcome to my GitHub! I am a junior software developer excited to make the transition into the tech industry. Please see below and have a look at some of the work I have produced whilst on my journey to learning how to code! 
+Hello and welcome to my GitHub! My name is Tom and I am a Junior Software Developer. Please see below and have a look at some of the work I have produced!
 
 ## Skills
 
